@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BDC696D-B3F1-42B7-B926-634C8DD428DE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEA85D16-724E-4D6E-BFA5-A1A7014F3DE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginSignUpAPi/NetworkLayer/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "putMethod(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68628E5A-DE00-4F15-8634-BE88A8D865F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginSignUpAPi/NetworkLayer/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "createDataBody(withParameters:userData:boundary:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68628E5A-DE00-4F15-8634-BE88A8D865F0 - df8d03d939158507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginSignUpAPi.NetworkManager.createDataBody(withParameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, userData: LoginSignUpAPi.UserDataModel, boundary: Swift.String) -&gt; Foundation.Data"
+                  moduleName = "LoginSignUpAPi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saheemhussain/Desktop/Simran%20IOS/LoginSignUpAPi/LoginSignUpAPi/NetworkLayer/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "2858">
+               </Location>
+               <Location
+                  uuid = "68628E5A-DE00-4F15-8634-BE88A8D865F0 - df8d03d939158507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginSignUpAPi.NetworkManager.createDataBody(withParameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, userData: LoginSignUpAPi.UserDataModel, boundary: Swift.String) -&gt; Foundation.Data"
+                  moduleName = "LoginSignUpAPi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saheemhussain/Desktop/Simran%20IOS/LoginSignUpAPi/LoginSignUpAPi/NetworkLayer/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "2922">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
