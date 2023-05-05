@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22A400" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CDContact" representedClassName="CDContact" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="company" optional="YES" attributeType="String"/>
+        <attribute name="email" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="firstName" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="instantMssg" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="lastName" optional="YES" attributeType="String"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="phone" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="profilePic" optional="YES" attributeType="Binary"/>
+        <attribute name="socialProfile" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="url" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="id"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+</model>
