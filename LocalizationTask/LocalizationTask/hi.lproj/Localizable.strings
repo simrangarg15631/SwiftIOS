@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  LocalizationTask
+
+  Created by Saheem Hussain on 29/03/23.
+  
+*/
+"Account Details" = "खाता विवरण";
+"First Name" = "पहला नाम";
+"Last Name" = "उपनाम";
+"Enter name" = "नाम दर्ज करें";
+"Date of Birth" = "जन्म की तारीख";
+"Select" = "चयन";
+"Minimum age allowed is 18 years old" = "न्यूनतम आयु की अनुमति 18 वर्ष है";
+"kg/cm" = "किग्रा/सेमी";
+"lbs/inch" = "एलबीएस / इंच";
+"Height" = "ऊंचाई";
+"You will be asked to log your weight as soon as your challenge is started" = "आपकी चुनौती शुरू होते ही आपको अपना वजन दर्ज करने के लिए कहा जाएगा";
+"Gender" = "लिंग";
+"Hide my weight from other members" = "मेरा वजन अन्य सदस्यों से छुपाएं";
+"Sync BetterTogether with" = "बेहतर सिंक करें";
+"Apple Health" = "सेब स्वास्थ्य";
+"Steps, Floors, Glasses" =  "कदम, फर्श, चश्मा";
+"Fitbit" = "फिटबिट";
+"The sync is activated every time that you enter the app. It is recommended to enter at the end of the day to record the full day achievemnts" = "हर बार जब आप ऐप में प्रवेश करते हैं तो सिंक सक्रिय हो जाता है। पूरे दिन की उपलब्धियों को दर्ज करने के लिए दिन के अंत में प्रवेश करने की सिफारिश की जाती है";
+"Popup Settings" = "पॉपअप सेटिंग्स";
+"Daily Tips" = "दैनिक युक्तियाँ";
+"Wellness daily tips pop-ups" = "तंदुरुस्ती दैनिक सुझाव पॉप-अप";
+"Save" = "संचय";
+"Male" = "नर";
+"Female" = "नारी";
